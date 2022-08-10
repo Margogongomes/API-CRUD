@@ -1,0 +1,28 @@
+2022-08-08T01:11:56.389Z [my-bank-api] info: API Started!
+2022-08-08T01:12:36.691Z [my-bank-api] info: GET /account
+2022-08-08T01:12:56.027Z [my-bank-api] info: GET /account
+2022-08-08T01:14:52.188Z [my-bank-api] info: API Started!
+2022-08-08T01:14:56.598Z [my-bank-api] info: API Started!
+2022-08-08T01:15:07.466Z [my-bank-api] info: API Started!
+2022-08-08T01:15:10.742Z [my-bank-api] info: API Started!
+2022-08-08T01:24:40.807Z [my-bank-api] info: GET /account
+2022-08-08T01:26:08.901Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2022-08-08T01:28:46.812Z [my-bank-api] info: POST /account - {"id":11,"name":"bob","balance":"200"}
+2022-08-08T01:28:53.327Z [my-bank-api] info: POST /account - {"id":12,"name":"bob","balance":"200"}
+2022-08-08T01:31:38.196Z [my-bank-api] info: GET /account/:id
+2022-08-08T01:34:47.305Z [my-bank-api] info: DELETE /account/:id - 3
+2022-08-08T01:42:08.896Z [my-bank-api] info: PUT /account - {"id":5,"name":"Chico José Silva","balance":3000}
+2022-08-08T01:42:19.302Z [my-bank-api] info: GET /account
+2022-08-08T10:29:20.631Z [my-bank-api] info: API Started!
+2022-08-08T10:35:11.527Z [my-bank-api] info: GET /account
+2022-08-08T10:41:59.961Z [my-bank-api] info: GET /account
+2022-08-08T11:09:42.345Z [my-bank-api] error: POST /account - Name e Balance são obrigatórios.
+2022-08-08T11:11:01.407Z [my-bank-api] info: POST /account - {"id":13,"name":"Rodrigo","balance":"600"}
+2022-08-08T11:11:49.681Z [my-bank-api] info: API Started!
+2022-08-08T11:11:55.889Z [my-bank-api] info: GET /account
+2022-08-08T11:14:35.786Z [my-bank-api] info: GET /account/:id
+2022-08-08T11:14:42.843Z [my-bank-api] info: GET /account/:id
+2022-08-08T11:14:54.849Z [my-bank-api] info: GET /account/:id
+2022-08-08T11:17:44.827Z [my-bank-api] info: DELETE /account/:id - 5
+2022-08-08T11:18:28.376Z [my-bank-api] info: API Started!
+2022-08-08T11:18:31.023Z [my-bank-api] info: GET /account
